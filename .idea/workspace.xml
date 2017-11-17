@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25996c00-b979-44e0-8bcc-c6aa54ec3935" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day04-ATM+shoppingCard/ATM购物车.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day05-calc/calc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/选课系统.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day08-ftp/FTP.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day08-ftp/FtpServer/home/coosh/666/Koala.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day08-ftp/FtpServer/home/coosh/Desert.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day08-ftp/FtpServer/home/panny/示例图片_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day09-ftp/FTP 2.0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day09-ftp/FTP with md5.eddx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabric.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/data/192.168.5.99/demoissues.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day11-rpc-RabbitMQ/RabbitMQ做简单的RPC.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/static/image/ad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/static/image/baker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/static/image/cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/static/image/children_learning_machine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/static/image/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/static/image/login-banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/static/image/login-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/static/image/login-welcome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/static/image/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/static/image/no_login.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/static/image/phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/static/image/pwd-icons-new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/static/image/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day02-shopping-cart/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day02-shopping-cart/menu.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day02-shopping-cart/menu_data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day02-shopping-cart/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day03-modify-haproxy/haproxy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day03-modify-haproxy/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day04-ATM+shoppingCard/db/admin.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day04-ATM+shoppingCard/db/coosh.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day04-ATM+shoppingCard/db/panny.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day04-ATM+shoppingCard/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day04-ATM+shoppingCard/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day04-ATM+shoppingCard/test.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day05-calc/bin/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day05-calc/modules/calc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day05-calc/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day05-calc/src/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day05-calc/test.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/bin/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/db/admin/admin.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/db/lesson/DBA.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/db/lesson/Linux运维高级班.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/db/lesson/Python课.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/db/lesson/鸡汤课.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/db/student/coosh.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/db/student/panny.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/db/teacher/alex.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/db/teacher/老男孩.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/db/teacher/银角大王.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/modules/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/modules/lesson.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/modules/person.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/modules/student.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/modules/teacher.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06-course-select-sys/test.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day08-ftp/FtpClient/bin/haproxy1.6.x Configuration Manual.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day08-ftp/FtpClient/bin/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day08-ftp/FtpClient/ftpclient.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day08-ftp/FtpServer/bin/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day08-ftp/FtpServer/db/user.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day08-ftp/FtpServer/ftpserver.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day08-ftp/FtpServer/home/coosh/666/freetds.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day08-ftp/FtpServer/home/coosh/666/haproxy1.6.x Configuration Manual.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day08-ftp/commons/ftp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day08-ftp/commons/mymd5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day08-ftp/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day08-ftp/test.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day09-ftp/FtpClient/bin/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day09-ftp/FtpClient/modules/FtpClient.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day09-ftp/FtpServer/bin/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day09-ftp/FtpServer/conf/coosh.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day09-ftp/FtpServer/conf/panny.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day09-ftp/FtpServer/home/coosh/666/freetds.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day09-ftp/FtpServer/log/access.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day09-ftp/FtpServer/modules/FtpServer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day09-ftp/FtpServer/modules/SelectorFtpServer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day09-ftp/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day09-ftp/test.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/bin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/bin/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/conf/hosts.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/data/192.168.5.138/ip.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/data/192.168.5.142/ip.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/data/192.168.5.41/ip.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/log/127.0.0.1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/log/192.168.5.138.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/log/192.168.5.142.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/log/192.168.5.37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/log/192.168.5.41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/log/192.168.5.99.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/log/mfm.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/modules/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/modules/mfm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricNode/bin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricNode/bin/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricNode/conf/mfn.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricNode/log/access.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricNode/modules/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricNode/modules/mfn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/libs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/libs/mylog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/libs/mytrans.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day10-Fabric-host-manage/test.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day11-rpc-RabbitMQ/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day11-rpc-RabbitMQ/commons/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day11-rpc-RabbitMQ/commons/conf/rabbit.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day11-rpc-RabbitMQ/commons/rabbit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day11-rpc-RabbitMQ/manager/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day11-rpc-RabbitMQ/manager/bin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day11-rpc-RabbitMQ/manager/bin/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day11-rpc-RabbitMQ/manager/module/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day11-rpc-RabbitMQ/manager/module/manager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day11-rpc-RabbitMQ/node/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day11-rpc-RabbitMQ/node/bin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day11-rpc-RabbitMQ/node/bin/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day11-rpc-RabbitMQ/node/module/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day11-rpc-RabbitMQ/node/module/node.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day11-rpc-RabbitMQ/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day11-rpc-RabbitMQ/test.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day14-edit-box/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day14-edit-box/plugin/jquery-1.12.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/jd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day15-jd-login+reg/static/js/jquery-1.12.4.min.js" />
+    </list>
+    <ignored path="dyasHomeworks.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/dyasHomeworks$login_emu.coverage" NAME="login-emu Coverage Results" MODIFIED="1510897047493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01/login-emu" />
+    <SUITE FILE_PATH="coverage/dyasHomeworks$dump_data.coverage" NAME="dump_data Coverage Results" MODIFIED="1510897640494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01/three-level-menu" />
+    <SUITE FILE_PATH="coverage/dyasHomeworks$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1510899875045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03-modify-haproxy" />
+    <SUITE FILE_PATH="coverage/dyasHomeworks$main.coverage" NAME="main Coverage Results" MODIFIED="1510897722150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01/three-level-menu" />
+    <SUITE FILE_PATH="coverage/dyasHomeworks$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1510898008321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/dyasHomeworks$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1510899882105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4-imitating-sql" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="dyasHomeworks" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day14-edit-box/html/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jd.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day15-jd-login+reg/jd.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day15-jd-login+reg/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/day02/readme.md" />
+        <option value="$PROJECT_DIR$/day02/menu_data.py" />
+        <option value="$PROJECT_DIR$/day3-modify-haproxy/haproxy.conf" />
+        <option value="$PROJECT_DIR$/day03-modify-haproxy/haproxy" />
+        <option value="$PROJECT_DIR$/day03-modify-haproxy/main.py" />
+        <option value="$PROJECT_DIR$/day4-imitating-sql/emp" />
+        <option value="$PROJECT_DIR$/day4-imitating-sql/main.py" />
+        <option value="$PROJECT_DIR$/day04/main.py" />
+        <option value="$PROJECT_DIR$/day05/bin/main.py" />
+        <option value="$PROJECT_DIR$/day05/modules/calc.py" />
+        <option value="$PROJECT_DIR$/day06/bin/main.py" />
+        <option value="$PROJECT_DIR$/day06/modules/admin.py" />
+        <option value="$PROJECT_DIR$/day06/modules/lesson.py" />
+        <option value="$PROJECT_DIR$/day06/modules/person.py" />
+        <option value="$PROJECT_DIR$/day06/modules/student.py" />
+        <option value="$PROJECT_DIR$/day06/modules/teacher.py" />
+        <option value="$PROJECT_DIR$/day08/FtpClient/bin/main.py" />
+        <option value="$PROJECT_DIR$/day08/FtpClient/ftpclient.py" />
+        <option value="$PROJECT_DIR$/day08/FtpServer/bin/main.py" />
+        <option value="$PROJECT_DIR$/day08/FtpServer/ftpserver.py" />
+        <option value="$PROJECT_DIR$/day08/commons/ftp.py" />
+        <option value="$PROJECT_DIR$/day08/commons/mymd5.py" />
+        <option value="$PROJECT_DIR$/day09/FtpClient/bin/main.py" />
+        <option value="$PROJECT_DIR$/day09/FtpClient/modules/FtpClient.py" />
+        <option value="$PROJECT_DIR$/day09/FtpServer/bin/main.py" />
+        <option value="$PROJECT_DIR$/day09/FtpServer/modules/FtpServer.py" />
+        <option value="$PROJECT_DIR$/day09/FtpServer/modules/SelectorFtpServer.py" />
+        <option value="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/bin/__init__.py" />
+        <option value="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/bin/main.py" />
+        <option value="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/modules/mfm.py" />
+        <option value="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/modules/__init__.py" />
+        <option value="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricNode/bin/__init__.py" />
+        <option value="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricNode/bin/main.py" />
+        <option value="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricNode/modules/__init__.py" />
+        <option value="$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricNode/modules/mfn.py" />
+        <option value="$PROJECT_DIR$/day10-Fabric-host-manage/libs/__init__.py" />
+        <option value="$PROJECT_DIR$/day10-Fabric-host-manage/libs/mylog.py" />
+        <option value="$PROJECT_DIR$/day10-Fabric-host-manage/libs/mytrans.py" />
+        <option value="$PROJECT_DIR$/day11-rpc-RabbitMQ/commons/__init__.py" />
+        <option value="$PROJECT_DIR$/day11-rpc-RabbitMQ/commons/rabbit.py" />
+        <option value="$PROJECT_DIR$/day11-rpc-RabbitMQ/manager/bin/__init__.py" />
+        <option value="$PROJECT_DIR$/day11-rpc-RabbitMQ/manager/bin/main.py" />
+        <option value="$PROJECT_DIR$/day11-rpc-RabbitMQ/manager/module/__init__.py" />
+        <option value="$PROJECT_DIR$/day11-rpc-RabbitMQ/manager/module/manager.py" />
+        <option value="$PROJECT_DIR$/day11-rpc-RabbitMQ/manager/__init__.py" />
+        <option value="$PROJECT_DIR$/day11-rpc-RabbitMQ/node/bin/__init__.py" />
+        <option value="$PROJECT_DIR$/day11-rpc-RabbitMQ/node/bin/main.py" />
+        <option value="$PROJECT_DIR$/day11-rpc-RabbitMQ/node/module/__init__.py" />
+        <option value="$PROJECT_DIR$/day11-rpc-RabbitMQ/node/module/node.py" />
+        <option value="$PROJECT_DIR$/day11-rpc-RabbitMQ/node/__init__.py" />
+        <option value="$PROJECT_DIR$/day11-rpc-RabbitMQ/__init__.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="23" />
+    <option name="y" value="75" />
+    <option name="width" value="1924" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyasHomeworks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyasHomeworks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyasHomeworks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\dyasHomeworks\day03-modify-haproxy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\dyasHomeworks" />
+      <recent name="C:\Users\tom\PycharmProjects\dyasHomeworks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (3)">
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day01/three-level-menu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dyasHomeworks" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day01/three-level-menu/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="dump_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day01/three-level-menu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dyasHomeworks" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day01/three-level-menu/dump_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dyasHomeworks" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day02/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day03-modify-haproxy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dyasHomeworks" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03-modify-haproxy/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day4-imitating-sql" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dyasHomeworks" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day4-imitating-sql/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dyasHomeworks" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dyasHomeworks" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dyasHomeworks" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dyasHomeworks" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="dyasHomeworks" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dyasHomeworks" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dyasHomeworks" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dyasHomeworks" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dyasHomeworks" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dyasHomeworks" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.dump_data" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.main (3)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.main (3)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.main" />
+        <item index="4" class="java.lang.String" itemvalue="Python.dump_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25996c00-b979-44e0-8bcc-c6aa54ec3935" name="Default" comment="" />
+      <created>1510889436961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510889436961</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="23" y="75" width="1924" height="1048" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.061104584" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/day09-ftp/FtpServer/conf/coosh.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09-ftp/FtpServer/conf/panny.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09-ftp/FtpServer/home/coosh/666/freetds.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09-ftp/FtpServer/modules/FtpServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09-ftp/FtpServer/modules/SelectorFtpServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09-ftp/FTP 2.0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09-ftp/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09-ftp/test.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1080">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/bin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/bin/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/data/192.168.5.138/ip.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/conf/hosts.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/modules/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricManager/modules/mfm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricNode/bin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricNode/bin/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricNode/conf/mfn.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricNode/log/access.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricNode/modules/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/MyFabricNode/modules/mfn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/libs/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/libs/mylog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/libs/mytrans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/MyFabric.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-Fabric-host-manage/test.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11-rpc-RabbitMQ/commons/conf/rabbit.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11-rpc-RabbitMQ/commons/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11-rpc-RabbitMQ/commons/rabbit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11-rpc-RabbitMQ/manager/bin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11-rpc-RabbitMQ/manager/bin/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11-rpc-RabbitMQ/manager/module/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11-rpc-RabbitMQ/manager/module/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11-rpc-RabbitMQ/manager/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11-rpc-RabbitMQ/node/bin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11-rpc-RabbitMQ/node/bin/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11-rpc-RabbitMQ/node/module/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11-rpc-RabbitMQ/node/module/node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11-rpc-RabbitMQ/node/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11-rpc-RabbitMQ/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11-rpc-RabbitMQ/RabbitMQ做简单的RPC.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11-rpc-RabbitMQ/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11-rpc-RabbitMQ/test.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12/bin/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day14-edit-box/plugin/jquery-1.12.4.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day14-edit-box/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day15-jd-login+reg/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day18/day18需求分析.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day15-jd-login+reg/jd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day18/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
